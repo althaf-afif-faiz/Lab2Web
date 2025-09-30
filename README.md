@@ -18,3 +18,6 @@ penjelasan dan contohnya!
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 ```
+## Jawaban dari pertanyaan dan tugas
+1. melakukan eksperimen merubah kode css dari modul seperti pada kode program berikut:
+   <img width="1142" height="3446" alt="code css" src="https://github.com/user-attachments/assets/01225929-b56f-4495-a9a7-b398c473af72" />
