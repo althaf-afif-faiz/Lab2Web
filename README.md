@@ -20,4 +20,88 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 ```
 ## Jawaban dari pertanyaan dan tugas
 1. melakukan eksperimen merubah kode css dari modul seperti pada kode program berikut:
-   <img width="1142" height="3446" alt="code css" src="https://github.com/user-attachments/assets/01225929-b56f-4495-a9a7-b398c473af72" />
+ ```
+  nav {
+  background: #20a759;
+  color: #fff;
+  padding: 10px;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+nav .active,
+nav a:hover {
+  background: #0b6b3a;
+}
+
+#intro {
+  background: #418fb1;
+  border: 1px solid #099249;
+  min-height: 100px;
+  padding: 10px;
+}
+#intro h1 {
+  text-align: left;
+  border: 0;
+  color: #fff;
+}
+.button {
+  padding: 15px 20px;
+  color: #fff;
+  display: inline-block;
+  margin: 10px;
+  text-decoration: none;
+}
+.btn-primary {
+  background: #ff0000;
+}
+.btn-primary {
+  background: #ff0000;
+}
+.btn-primary:hover {
+  background: #cc0000;
+}
+.btn-primary:active {
+  background: #949292;
+}
+.btn-primary:focus {
+  outline: none;
+  background: rgb(177, 177, 176);
+}
+.logo {
+  position: absolute;
+  top: 30px;
+  left: 10px;
+  width: 50px;
+  height: auto;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+header h1 {
+  flex: 1;
+  text-align: center;
+}
+.logo {
+  background-color: white;
+  border-radius: 8px; /* biar sudutnya agak halus */
+  padding: 5px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+}
+.logo {
+  width: 80px;
+  height: auto;
+  margin-right: 15px;
+}
+```
+
