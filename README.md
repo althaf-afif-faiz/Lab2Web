@@ -117,7 +117,7 @@ Urutan prioritas CSS (specificity + cascade):
    2. Internal CSS (di <style>)   
    3. Eksternal CSS (file .css)   
 Contoh :   
-  #### (h1 style="color: blue;">Halo Dunia</h1)     
+#### (h1 style="color: blue;">Halo Dunia</h1)     
 Jika eksternal CSS: h1 { color: red; }   
 Jika internal CSS: h1 { color: green; }   
 Hasilnya tetap blue, karena inline CSS menang.   
