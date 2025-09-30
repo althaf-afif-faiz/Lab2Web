@@ -115,7 +115,8 @@ Hanya mengatur (h1) yang ada di dalam elemen dengan id="intro".
 Urutan prioritas CSS (specificity + cascade):   
    1. Inline CSS (langsung di elemen → pakai style="")   
    2. Internal CSS (di <style>)   
-   3. Eksternal CSS (file .css)   
+   3. Eksternal CSS (file .css)
+
 Contoh :   
 #### (h1 style="color: blue;">Halo Dunia</h1)     
 Jika eksternal CSS: h1 { color: red; }   
