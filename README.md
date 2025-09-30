@@ -108,7 +108,7 @@ Menambahkan class logo untuk dapat ditampilkan pada web dan juga membuat saat to
 
 2. Perbedaan h1 {…} dengan #intro h1 {…}   
 h1 {…}   
-Mengatur semua elemen (<h1>) di seluruh halaman.   
+Mengatur semua elemen (h1) di seluruh halaman.   
 #intro h1 {…}   
-Hanya mengatur (<h1>) yang ada di dalam elemen dengan id="intro".   
+Hanya mengatur (h1) yang ada di dalam elemen dengan id="intro".   
 
