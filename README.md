@@ -118,7 +118,9 @@ Urutan prioritas CSS (specificity + cascade):
    3. Eksternal CSS (file .css)
 
 Contoh :   
-#### (h1 style="color: blue;">Halo Dunia</h1)     
+```
+<h1 style="color: blue;">Halo Dunia</h1>
+```     
 Jika eksternal CSS: h1 { color: red; }   
 Jika internal CSS: h1 { color: green; }   
 Hasilnya tetap blue, karena inline CSS menang.   
@@ -127,7 +129,7 @@ Hasilnya tetap blue, karena inline CSS menang.
 Contoh :
 ```
 html
-(p id="paragraf-1" class="text-paragraf">Teks Contoh</p)
+<p id="paragraf-1" class="text-paragraf">Teks Contoh</p>
 ```
 ```
 #paragraf-1 {
@@ -139,6 +141,4 @@ html
 }
 ```
 
-
-
-
+### 
