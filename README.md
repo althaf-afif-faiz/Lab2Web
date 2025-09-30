@@ -123,5 +123,22 @@ Jika eksternal CSS: h1 { color: red; }
 Jika internal CSS: h1 { color: green; }   
 Hasilnya tetap blue, karena inline CSS menang.   
 
+4. Jika terdapat id dan Class manakah yang ditampilkan pada browser, maka id lebih kuat dibandingkan class.
+Contoh :
+```
+html
+(p id="paragraf-1" class="text-paragraf">Teks Contoh</p)
+```
+```
+#paragraf-1 {
+  color: blue;
+}
+
+.text-paragraf {
+  color: red;
+}
+```
+
+
 
 
