@@ -290,3 +290,49 @@ flex: 1; → elemen <h1> di dalam header akan mengambil ruang kosong yang tersed
 text-align: center; → teks judul di dalam <h1> rata tengah.    
 ```
 
+<img width="227" height="97" alt="image" src="https://github.com/user-attachments/assets/86872346-0d3d-4acc-bd6f-e75cbedef253" />
+
+```
+background-color: white; → memberi latar belakang putih pada elemen dengan class .logo.   
+border-radius: 8px; → membuat sudut kotak menjadi melengkung (rounded) 8px.   
+padding: 5px; → memberi jarak dalam sebesar 5px antara isi logo dengan tepi kotak.   
+```
+
+<img width="229" height="113" alt="image" src="https://github.com/user-attachments/assets/b82aa629-22c5-48e3-92e0-629599fab6e1" />
+
+```
+display: flex; → menjadikan header sebagai flex container.   
+align-items: center; → isi di dalam header akan diratakan secara vertikal ke tengah.    
+justify-content: center; → isi di dalam header diratakan ke tengah secara horizontal.   
+padding: 10px 20px; → memberi jarak dalam 10px atas–bawah dan 20px kiri–kanan.
+```
+
+<img width="205" height="104" alt="image" src="https://github.com/user-attachments/assets/4e85d045-13f0-45c7-86d3-3e1904074466" />
+
+```
+width: 80px; → logo diberi lebar 80px.   
+height: auto; → tinggi logo menyesuaikan proporsi aslinya (tidak terdistorsi).    
+margin-right: 15px; → memberi jarak luar ke kanan sebesar 15px, supaya tidak terlalu menempel dengan teks/elemen lain di sampingnya.   
+```
+
+### Berikut ini tampilan code program pada HTML :
+
+
+<img width="1542" height="2192" alt="code html" src="https://github.com/user-attachments/assets/620680e0-e7fa-4eb6-ac04-a00a75505940" />
+
+
+### Berikut ini tampilan code program pada CSS :
+
+
+<img width="838" height="3446" alt="code css ril" src="https://github.com/user-attachments/assets/a67bb753-4ca5-4f8b-85a6-52da4bd3e17c" />
+
+### Output dari program dan tampilan pada browser :
+
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f8d70a34-de70-4872-9709-6719c3fd0deb" />
+
+
+
+
+
+
